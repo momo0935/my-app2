@@ -13,9 +13,9 @@ export default class App extends Component{
 // 初始化狀態
 
 state={todos:[
-{id:'001',name:'aa',done:true},
-{id:'002',name:'bb',done:false},
-{id:'003',name:'cc',done:true},
+{id:'001',name:'待辦事項一',done:true},
+{id:'002',name:'待辦事項二',done:false},
+{id:'003',name:'待辦事項三',done:true},
 
 
 ]}
